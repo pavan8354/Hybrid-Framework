@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15629" started-at="2021-08-06T14:21:03Z" finished-at="2021-08-06T14:21:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15629" started-at="2021-08-06T14:21:03Z" finished-at="2021-08-06T14:21:19Z">
+      <class name="com.qa.learnautomationtestcases.LoginTestCRM">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.learnautomationtestcases.LoginTestCRM@3e6fa38a]" name="setup" is-config="true" duration-ms="10706" started-at="2021-08-06T14:21:03Z" finished-at="2021-08-06T14:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.qa.learnautomationtestcases.LoginTestCRM@3e6fa38a]" name="Login" duration-ms="4166" started-at="2021-08-06T14:21:14Z" finished-at="2021-08-06T14:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.learnautomationtestcases.LoginTestCRM@3e6fa38a]" name="teardown" is-config="true" duration-ms="708" started-at="2021-08-06T14:21:18Z" finished-at="2021-08-06T14:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.learnautomationtestcases.LoginTestCRM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
